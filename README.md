@@ -2,3 +2,5 @@
 With the help of springboot we store the data to database easly and create api 
 
 depedency-- spring web , mysql driver , spring batch ,hibernate data jpa,apache poi 
+
+\s - for knowing the port running in your system 
